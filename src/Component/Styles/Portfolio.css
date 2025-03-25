@@ -1,0 +1,49 @@
+#sidemenu
+{
+  position: fixed; 
+  height: 608px;
+  width: 234px;
+  padding-top: 50px;
+
+}
+a
+{
+    list-style-type: none;
+    text-decoration-line: none;
+    color: white;
+}
+a:active
+{
+   color: green; 
+}
+.socialmedia
+{
+  width: 25px;
+  height: 25px;
+  display: grid;
+}
+/* .d-inline
+{
+  display: inline;
+} */
+#welcome
+{
+  position:absolute;
+  left: 236px;
+  width: 82.4%;
+
+}
+.large
+{
+  font-size: xx-large;
+}
+.intro{
+ margin-left: 28px;
+}
+hr{
+  opacity: 0.1;
+}
+.detail{
+  margin-top: 15px;
+  line-height: 10px;
+}
